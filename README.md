@@ -12,6 +12,8 @@ A real-time weather monitoring dashboard that tracks weather conditions across m
   - Shows current temperature and "feels like" temperature
   - Displays current weather conditions with visual indicators
 
+  ![Weather Cards](./screenshot/weather%20dashboard.jpg)
+
 - **Temperature Analytics**
   - Daily temperature summaries
   - Min, max, and average temperature tracking
@@ -153,6 +155,3 @@ The application will be available at `http://localhost:3000`
 - Chart.js for visualizations
 - MongoDB Atlas for database hosting
 
-## Note
-Its better if for testing purpose use the below mentioned Database
-MongoDB_URL - mongodb+srv://princegupta2373:9109350889@weather.s8vwh.mongodb.net/ 
