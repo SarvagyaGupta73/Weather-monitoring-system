@@ -163,3 +163,6 @@ The application will be available at `http://localhost:3000`
 - Chart.js for visualizations
 - MongoDB Atlas for database hosting
 
+### Note
+- for better checking kindly use the below mentioned MongoDB instance -
+ mongodb+srv://princegupta2373:9109350889@weather.s8vwh.mongodb.net/
