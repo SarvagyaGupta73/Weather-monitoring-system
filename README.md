@@ -2,8 +2,6 @@
 
 A real-time weather monitoring dashboard that tracks weather conditions across multiple Indian cities, provides temperature alerts, and visualizes weather trends.
 
-![Weather Dashboard](dashboard-preview.png)
-
 ## Key Features
 
 - **Real-time Weather Monitoring**
@@ -20,17 +18,24 @@ A real-time weather monitoring dashboard that tracks weather conditions across m
   - Dominant weather condition analysis
   - Historical weather data tracking
 
+  ![Daily Summary](https://github.com/SarvagyaGupta73/Weather-monitoring-system/blob/653531558d4e5865bc45dfa785f289541ab3de9c/screenshot/weather%20dashboard.jpg)
+
+
 - **Alert System**
   - Customizable temperature threshold alerts
   - Email notifications when thresholds are exceeded
   - City-specific alert configuration
   - Alert history tracking
 
+  ![Alert Bar](https://github.com/SarvagyaGupta73/Weather-monitoring-system/blob/653531558d4e5865bc45dfa785f289541ab3de9c/screenshot/Daily%20Summary.jpg)
+
 - **Data Visualization**
   - Temperature trend charts
   - Weather distribution analysis
   - City-wise temperature comparisons
   - Interactive data visualization
+
+  ![Visualization](https://github.com/SarvagyaGupta73/Weather-monitoring-system/blob/653531558d4e5865bc45dfa785f289541ab3de9c/screenshot/Alert.jpg)
 
 ## Design and Implementation
 
