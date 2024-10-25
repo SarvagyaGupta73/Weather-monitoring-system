@@ -12,7 +12,7 @@ A real-time weather monitoring dashboard that tracks weather conditions across m
   - Shows current temperature and "feels like" temperature
   - Displays current weather conditions with visual indicators
 
-  ![Weather Cards](./screenshot/weather%20dashboard.jpg)
+  ![Weather Cards](https://github.com/SarvagyaGupta73/Weather-monitoring-system/blob/653531558d4e5865bc45dfa785f289541ab3de9c/screenshot/weather%20dashboard.jpg)
 
 - **Temperature Analytics**
   - Daily temperature summaries
